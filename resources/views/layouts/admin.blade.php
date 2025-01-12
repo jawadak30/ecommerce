@@ -84,7 +84,7 @@
                                         <div class="text">Brand</div>
                                     </a>
                                     <ul class="sub-menu">
-                                        <li class="sub-menu-item">
+                                        <li class="sub-menu-item" style="display: none">
                                             <a href="#" class="">
                                                 <div class="text">New Brand</div>
                                             </a>
@@ -103,7 +103,7 @@
                                         <div class="text">Category</div>
                                     </a>
                                     <ul class="sub-menu">
-                                        <li class="sub-menu-item">
+                                        <li class="sub-menu-item" style="display: none">
                                             <a href="#" class="">
                                                 <div class="text">New Category</div>
                                             </a>
@@ -127,14 +127,14 @@
                                                 <div class="text">Orders</div>
                                             </a>
                                         </li>
-                                        <li class="sub-menu-item">
+                                        <li class="sub-menu-item" style="display: none">
                                             <a href="order-tracking.html" class="">
                                                 <div class="text">Order tracking</div>
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="menu-item">
+                                <li class="menu-item" style="display: none">
                                     <a href="slider.html" class="">
                                         <div class="icon"><i class="icon-image"></i></div>
                                         <div class="text">Slider</div>
@@ -147,14 +147,14 @@
                                     </a>
                                 </li>
 
-                                <li class="menu-item">
+                                <li class="menu-item" style="display: none">
                                     <a href="users.html" class="">
                                         <div class="icon"><i class="icon-user"></i></div>
                                         <div class="text">User</div>
                                     </a>
                                 </li>
 
-                                <li class="menu-item">
+                                <li class="menu-item" style="display: none">
                                     <a href="settings.html" class="">
                                         <div class="icon"><i class="icon-settings"></i></div>
                                         <div class="text">Settings</div>
